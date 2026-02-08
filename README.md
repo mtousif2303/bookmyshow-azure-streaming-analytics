@@ -120,6 +120,7 @@ Tech Stack : Python, EventHub, Azure Stream Analytics Job, SQL, Synapse DWH
                     (Power BI, SQL Analytics, etc.)
 ```
 
+
 a) EventHub topics
 
 <img width="2970" height="1762" alt="image" src="https://github.com/user-attachments/assets/e9702587-a2ae-42c3-96ee-0ff31cfa6f14" />
@@ -128,16 +129,19 @@ a) EventHub topics
 b) The Azure stream analytics job 
 bookingmyshow_stream_analytics
 
+
 <img width="3456" height="2010" alt="image" src="https://github.com/user-attachments/assets/39ca91fb-d892-47aa-bddf-1ef09e060fa5" />
 
 
 c) The Azure Synapse analytics 
 The fact table for analytics
 
+
 <img width="2994" height="1730" alt="image" src="https://github.com/user-attachments/assets/da071f53-017b-4058-b46d-f0161f83fc21" />
 
 
 d) The Python Script to Mock the data
+
 
 <img width="3454" height="2048" alt="image" src="https://github.com/user-attachments/assets/11087992-a984-4beb-9824-6f714f8a71a6" />
 
